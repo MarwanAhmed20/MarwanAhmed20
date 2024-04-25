@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/marwan-ahmed-9b0a83183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/marwan-ahmed-9b0a83183/" height="30" width="40" /></a>
-</p>
 <a href="[https://kaggle.com/ahmedsamy18296](https://www.kaggle.com/marwanahmed1911)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedsamy18296" height="30" width="40" /></a>
 </p>
 
