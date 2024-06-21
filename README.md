@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="marwanahmed20" /> </p>
 
-- 📫 How to reach me **marwan242362gmail.com** <p align="left"><img src="[https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile%20views&color=0e75b6&style=flat](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)" alt="marwan242362gmail.com" /> </p>
+- 📫 How to reach me **marwan242362gmail.com** <a img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="marwan242362gmail.com" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
