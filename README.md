@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="marwanahmed20" /> </p>
 
 - 📫 How to reach me **marwan242362gmail.com** <p align="left">
- <p align="left"> <a href="mailto:marwan24236@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" </a> </p>
+ <a href="mailto:marwan24236@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" height="20"/> </a>
 
 
 <h3 align="left">Connect with me:</h3>
