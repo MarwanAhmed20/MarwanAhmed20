@@ -1,8 +1,7 @@
 <p align="center">
 <h1 align="center">Hi 👋, I'm Marwan Ahmed</h1>
-<h3 align="center">Artificial Intelligence Engineer</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=4416E4&center=true&random=false&width=435&lines=Machine+Learning+%26+AI+Engineer;Always+Learning+New+Things" alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="400" src="https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8">
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=4416E4&center=true&random=false&width=435&lines=Machine+Learning+%26+AI+Engineer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</h3>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="marwanahmed20" /> </p>
