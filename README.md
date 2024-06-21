@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan Ahmed</h1>
 <h3 align="center">Artificial Intelligence Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
-<img align="right" alt="Coding" width="400" ![analyticsinsight_import_wp-content_uploads_2020_03_AI_Animated](https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8)>
+<img align="right" alt="Coding" width="400" src="!https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="marwanahmed20" /> </p>
