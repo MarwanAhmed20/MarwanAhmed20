@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="marwanahmed20" /> </p>
 
-- 📫 How to reach me **marwan242362gmail.com** <a img src="https://cdn-icons-png.freepik.com/512/2875/2875435.png" alt="marwan242362gmail.com" /> </p>
+- 📫 How to reach me **marwan242362gmail.com** <a href="mailto:marwan24236@gmail.com">marwan24236@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" </a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,21 +33,20 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40"/> </a> 
-    <a href="https://https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" title="mongodb" width="40" height="40"/> </a> 
+    <a href="https://https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="mongodb" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> </a>
    
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" width="40" height="40"/> </a>
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" title="Django" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" title="raspberry-pi" width="40" height="40"/> </a>
  
 
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanahmed20&show_icons=true&locale=en&theme=dark&hide" alt="marwanahmed20" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanahmed20&&theme=dark&hide" alt="marwanahmed20" />
+|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanahmed20&show_icons=true&locale=en&theme=dark&hide" alt="marwanahmed20" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanahmed20&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="marwanahmed20" /></p>
 | ------------- | ------------- |
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanahmed20&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="marwanahmed20" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanahmed20&&theme=dark&hide" alt="marwanahmed20" />
 </p>
-
 
