@@ -44,7 +44,6 @@
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" title="raspberry-pi" width="40" height="40"/> </a>
  
 
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanahmed20&show_icons=true&locale=en&theme=dark&hide" alt="marwanahmed20" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanahmed20&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="marwanahmed20" /></p>
 | ------------- | ------------- |
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanahmed20&&theme=dark&hide" alt="marwanahmed20" />
