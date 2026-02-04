@@ -42,8 +42,3 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" title="raspberry-pi" width="40" height="40"/> </a>
- 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanahmed20&&theme=dark&hide" alt="marwanahmed20" />
-</p>
-
