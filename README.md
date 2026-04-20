@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=926FF7&center=true&random=false&width=480&lines=Machine+Learning+%26+AI+Engineer;Building+Intelligent+Systems;Always+Learning+New+Things" alt="ML & AI Engineer" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=marwanahmed20&label=Profile+Views&color=926FF7&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
@@ -103,18 +101,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marwanahmed20&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+way+to+predict+the+future+is+to+invent+it.&author=Alan+Kay" alt="Quote" />
 </div>
 
-<div align="center">
-  <sub>⭐ If you find my work useful, give it a star!</sub>
-</div>
